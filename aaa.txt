@@ -1,1 +1,1 @@
-wasxwsad
+print 'hello world'
