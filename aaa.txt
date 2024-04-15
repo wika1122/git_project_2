@@ -1,3 +1,5 @@
 print 'hello world' 
 print 'hello' 
 asdfghj
+print('zmiana pierwsza dep')
+print('zmiana druga dep') 
