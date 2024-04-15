@@ -2,4 +2,6 @@ print 'hello world'
 print 'hello' 
 asdfghj
 print('zmiana pierwsza dep')
-print('zmiana druga dep')
+print('zmiana druga dep') 
+print('kolejna zmiana')
+print('jeszcze jedna zmiana')
