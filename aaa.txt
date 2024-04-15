@@ -1,1 +1,4 @@
-printtt 
+print 'hello world' 
+print 'hello' 
+asdfghj
+print('zmiana pierwsza dep')
