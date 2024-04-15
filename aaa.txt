@@ -2,8 +2,9 @@ print 'hello world'
 print 'hello' 
 asdfghj
 print('zmiana pierwsza dep')
-<<<<<<< HEAD
 print('zmiana druga dep') 
-=======
 print('zmiana druga dep')
->>>>>>> development
+print('zmiana druga dep') 
+print('kolejna zmiana')
+print('jeszcze jedna zmiana')
+
